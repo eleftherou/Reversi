@@ -1,2 +1,3 @@
 # Reversi
-Reversi board game, using minimax algorithm.t implemented for the course "Artificial Intelligence"
+Reversi board game, using minimax algorithm. 
+Implemented for Artificial Intelligence course.
